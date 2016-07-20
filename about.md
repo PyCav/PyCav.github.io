@@ -12,18 +12,19 @@ PyCav consists of four streams:
 
 <ul>
 
-<li> Investigations related to some of our major Physics lecture courses, allowing students to explore and visualize complex physical phenomena beyond the analytic examples given in lectures.
+<li><a href="https://github.com/PyCav/Demos">Demonstrations</a> for use in lectures, in the form of <a href="https://github.com/PyCav/Demos">Jupyter notebooks</a>.
 </li>
 
-<li> Dynamic web pages to host these problems, and provide solutions or hints for student self-evaluation.
+<li><a href="https://pycav.ovh">A JupyterHub server</a> to host these demos, and provide solutions or hints for student self-evaluation.
 </li>
 
-<li>Demonstrations for use in lectures.
+ <li><a href="https://github.com/PyCav/Investigations">Investigations</a>  related to some of our major Physics lecture courses, allowing students to explore and visualize complex physical phenomena beyond the analytic examples given in lectures.
 </li>
 
-<li>Tools for Data gathering, analysis, and plotting for use in the practical classes.
+<li><a href="https://github.com/PyCav/Data">Tools</a> for Data gathering, analysis, and plotting for use in the practical classes.
 </li>
 </ul>
+
 The PyCav team are Aidan Crilly, Sam Garrett, Taketomo Isazawa, Jordan Osborn and Niall McConville.
 
 PyCav is run by Austen Lamacraft and John Richer, with financial support from the teaching and learning innovation fund.
