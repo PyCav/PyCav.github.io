@@ -26,4 +26,4 @@ PyCav consists of four streams:
 </ul>
 The PyCav team are Aidan Crilly, Sam Garrett, Taketomo Isazawa, Jordan Osborn and Niall McConville.
 
-PyCav is run by Austen Lamacraft and John Richer, with financial support from the teaching and learning innovation fund.</p>
+PyCav is run by Austen Lamacraft and John Richer, with financial support from the teaching and learning innovation fund.
