@@ -2,9 +2,14 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<h1>PyCav </h1>
+<h1>About </h1>
+<figure>
+  <img src="/assets/images/TeamPyCav.jpg" alt="Team PyCav">
+  <figcaption>The PyCav team are Taketomo Isazawa, John Richer, Aidan Crilly, Sam Garrett , Jordan Osborn, Niall McConville, and Austen Lamacraft.</figcaption>
+</figure>
+
+
 
 <p>The goal of PyCav is to unify computing in the Cambridge undergraduate Physics course under a single framework based on the Python programming language.</p>
 
@@ -25,6 +30,4 @@ PyCav consists of four streams:
 </li>
 </ul>
 
-The PyCav team are Aidan Crilly, Sam Garrett, Taketomo Isazawa, Jordan Osborn and Niall McConville.
-
-PyCav is run by Austen Lamacraft and John Richer, with financial support from the teaching and learning innovation fund.
+Funding is provided by the [teaching and learning innovation fund](http://www.cctl.cam.ac.uk/support-and-training/funding/teaching-and-learning-innovation-fund).
