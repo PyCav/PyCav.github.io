@@ -21,7 +21,7 @@ PyCav consists of four streams:
  <li><a href="https://github.com/PyCav/Investigations">Investigations</a>  related to some of our major Physics lecture courses, allowing students to explore and visualize complex physical phenomena beyond the analytic examples given in lectures.
 </li>
 
-<li><a href="https://github.com/PyCav/Data">Tools</a> for Data gathering, analysis, and plotting for use in the practical classes.
+<li> Tools for <a href="https://github.com/PyCav/Data">data</a> gathering, analysis, and plotting for use in the practical classes.
 </li>
 </ul>
 
