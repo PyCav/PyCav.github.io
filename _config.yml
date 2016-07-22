@@ -25,7 +25,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: pycavblog.disqus.com
+disqus: pycavblog
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
