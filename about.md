@@ -3,10 +3,10 @@ title: About
 layout: page
 ---
 
-<h1>About </h1>
+<h1>About PyCav </h1>
 <figure>
   <img src="/assets/images/TeamPyCav.jpg" alt="Team PyCav">
-  <figcaption>The PyCav team are Taketomo Isazawa, John Richer, Aidan Crilly, Sam Garrett , Jordan Osborn, Niall McConville, and Austen Lamacraft.</figcaption>
+  <figcaption>The PyCav team are Taketomo Isazawa, John Richer, Aidan Crilly, Sam Garrett, Jordan Osborn, Niall McConville, and Austen Lamacraft.</figcaption>
 </figure>
 
 
