@@ -20,7 +20,7 @@ PyCav consists of four streams:
 <li><a href="https://github.com/PyCav/Demos">Demonstrations</a> for use in lectures, in the form of <a href="https://github.com/PyCav/Demos">Jupyter notebooks</a>.
 </li>
 
-<li><a href="https://pycav.ovh">A JupyterHub server</a> to host these demos, and provide solutions or hints for student self-evaluation.
+<li><a href="https://nile.pycav.org">A JupyterHub server</a> to host these demos, and provide solutions or hints for student self-evaluation.
 </li>
 
  <li><a href="https://github.com/PyCav/Investigations">Investigations</a>  related to some of our major Physics lecture courses, allowing students to explore and visualize complex physical phenomena beyond the analytic examples given in lectures.
