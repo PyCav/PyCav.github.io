@@ -13,7 +13,7 @@ layout: page
 
 <p>The goal of PyCav is to unify computing in the Cambridge undergraduate Physics course under a single framework based on the Python programming language.</p>
 
-PyCav consists of four streams:
+The materials we are developing are all available from our [GitHub repository](https://github.com/PyCav). PyCav consists of four streams:
 
 <ul>
 
