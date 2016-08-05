@@ -7,7 +7,7 @@ description:
 tag:
 blog: true
 jemoji:
-author:aidancrilly
+author: aidancrilly
 ---
 
 The PyCav library consists of an ever-growing number of modules that proved useful in creating demonstrations, which any user could use through a simple set of functions and objects. It allows for easy creation and visualization of simulations ranging from a number of classical particles in a box to solving the time dependent Schrodinger equation.
