@@ -48,6 +48,12 @@ authors:
         external-image: true
         picture: https://avatars2.githubusercontent.com/u/17982553?v=3&u=d8a5e54a6a41d44185fed4d8f90a84bc55a767a7&s=140
         twitter: austenlamacraft
+    aidancrilly:
+        name: Aidan Crilly
+        bio: Physics of Other Stuff
+        external-image: false
+        picture:
+        twitter:
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
