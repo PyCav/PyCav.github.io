@@ -38,4 +38,4 @@ _In order to give a bit of background on the origins of the PyCav project, I'm a
 
 >The PIs will evaluate and choose the best Python distribution and platform for our teaching. We have established links already with a local Python distributor, Enthought, and had an initial meeting with them to discuss our plans. We will evaluate their distribution Canopy, alongside that from Anaconda, python.org, trinket.io, and others. Both PIs are expert in computational physics, and in Python (Richer has professional experience as a software engineer).
 
-Looking back, it's odd that we didn't anticipate the dominant role that would be played by [Jupyter notebooks](http://jupyter.org) and the surrounding technologies 
+_Looking back, it's odd that [Jupyter notebooks](http://jupyter.org) and the surrounding technologies don't even get a mention, given the dominant role they've come to have in the project._ 
