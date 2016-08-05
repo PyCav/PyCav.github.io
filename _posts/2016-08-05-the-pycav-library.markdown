@@ -5,6 +5,7 @@ date: 2016-08-05 10:44
 image: '/assets/images/'
 description:
 tag:
+tools: true
 blog: true
 jemoji:
 author: aidancrilly
@@ -12,7 +13,7 @@ author: aidancrilly
 
 The PyCav library consists of an ever-growing number of modules that proved useful in creating demonstrations, which any user could use through a simple set of functions and objects. It allows for easy creation and visualization of simulations ranging from a number of classical particles in a box to solving the time dependent Schrodinger equation.
 
-The library has been made readily available on PyPI in the hopes that students and others can use it readily, making computer simulations an integral part of the learning experience. 
+The library has been made readily available on PyPI in the hopes that students and others can use it readily, making computer simulations an integral part of the learning experience.
 
 To install the PyCav Library, one can use the pip install command in Terminal/Command Line:
 
@@ -26,7 +27,7 @@ The project is also open sourced on [GitHub](https://github.com/PyCav/PyCav-Libr
 
 In depth documentation of PyCav's usage and implementation can be found [here](http://pycav.readthedocs.io/en/latest/api/index.html)
 
-#### [Classic Mechanics](http://pycav.readthedocs.io/en/latest/api/mechanics/index.html)
+#### [Classical Mechanics](http://pycav.readthedocs.io/en/latest/api/mechanics/index.html)
 
 This module contains particle, which can interact through user-defined force laws, and spring objects which can connect particle objects
 
