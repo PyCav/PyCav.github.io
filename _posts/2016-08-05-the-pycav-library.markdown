@@ -58,3 +58,19 @@ Methods for solving the following PDEs numerically are included in the pde modul
 #### [Geometric Optics](http://pycav.readthedocs.io/en/latest/api/optics/index.html)
 
 Contains ray object for observing refraction into another medium. Other functions included allow to observe caustics caused by refraction
+
+<html>
+<head>
+<title>MathJax TeX Test Page</title>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+</script>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+</head>
+<body>
+When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+</body>
+</html>
