@@ -18,15 +18,15 @@ presenting could include unwanted setup and delay. However the notebooks, along 
 
 Some examples produced from the PyCav Project:
 
+[Steady State Wave Equation: Foldy Lax](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/FoldyLax.ipynb)
+
 [Wave Equation: 1D and 2D examples](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/numerical_wave_equation.ipynb)
 
 [Time-Dependent QM: Reflectionless Potential](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/1D_reflectionless_potential.ipynb)
 
 [Fluid Dynamics: Flow onto a barrier via Lattice Boltzmann Method](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/FluidDynamics/LatticeBoltzmann.ipynb)
 
-[Steady State Wave Equation: Foldy Lax](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/FoldyLax.ipynb)
-
-[Time-Independent QM: Shooting Method for finite square well](https://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/shooting_method.ipynb
+[Time-Independent QM: Shooting Method for finite square well](https://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/shooting_method.ipynb)
 
 [Electrodynamics: Charged particle motion near fixed charges](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/charge_torus.ipynb)
 
