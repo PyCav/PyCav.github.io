@@ -49,11 +49,11 @@ This module includes the capability to:
 
 Methods for solving the following PDEs numerically are included in the pde module:
 
-1. Wave Equation - $ \ddot{\psi} = c^2 \nabla^2 \psi $
+1. Wave Equation - \\( \\ddot{\\psi} = c^2 \\nabla^2 \\psi \\)
 
-2. Heat Equation - $ \dot{\psi} = D \nabla^2 \psi $
+2. Heat Equation - \\( \\dot{\psi} = D \\nabla^2 \\psi \\)
 
-3. Time-Dependent Schrödinger Equation - $ \hat{H} \psi = i \hbar \dot{\psi} $
+3. Time-Dependent Schrödinger Equation - \\( \\hat{H} \\psi = i \\hbar \\dot{\\psi} \\)
 
 #### [Geometric Optics](http://pycav.readthedocs.io/en/latest/api/optics/index.html)
 
