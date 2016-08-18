@@ -68,11 +68,11 @@ Some examples produced from the PyCav Project, click the images to view the demo
 </figcaption>
 </figure>
 <figure>
-    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/split_step_schrodinger.ipynb">
+    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/alpha_decay.ipynb">
        <img src="/assets/images/nbviewerthumbs/split_step_schroedinger.png" alt="Time-Dependent QM: 1D Barriers & Harmonic Potentials">
     </a></center>
 <figcaption>
-    Time-Dependent QM: 1D Barriers & Harmonic Potentials
+    Time-Dependent QM: 1D Alpha Decay
 </figcaption>
 </figure>
 
