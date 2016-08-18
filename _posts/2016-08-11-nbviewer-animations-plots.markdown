@@ -43,17 +43,17 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 </figure>
 
 <figure>
-    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Electromagnetism/Cherenkov.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/cherenkov.png" alt="Electromagnetism: Cherenkov Radiation">
-    </a></center>
+    <a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Electromagnetism/Cherenkov.ipynb">
+       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/cherenkov.png" alt="Electromagnetism: Cherenkov Radiation" style="margin:0px auto;display:block">
+    </a>
 <figcaption>
     Electromagnetism: Cherenkov Radiation
 </figcaption>
 </figure>
 <figure>
-    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/FoldyLax.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/fold_lax.png" alt="Steady State Scattering: Foldy Lax">
-    </a></center>
+    <a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/FoldyLax.ipynb">
+       <center><img src="/assets/images/nbviewerthumbs/nbviewerthumbs/fold_lax.png" alt="Steady State Scattering: Foldy Lax"></center>
+    </a>
 <figcaption>
     Steady State Scattering: Foldy Lax
 </figcaption>
