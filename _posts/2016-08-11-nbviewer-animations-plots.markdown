@@ -36,7 +36,7 @@ Some examples produced from the PyCav Project, click the images to view the demo
 </figure>
 <figure>
     <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/FoldyLax.ipynb">
-       <img src="/assets/images/nbviewerthumbs/fold_lax.png" alt="Steady State Scattering: Foldy Lax">
+       <img src="/assets/images/nbviewerthumbs/foldy_lax.png" alt="Steady State Scattering: Foldy Lax">
     </a></center>
 <figcaption>
     Steady State Scattering: Foldy Lax
