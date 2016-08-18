@@ -2,7 +2,6 @@
 title: "Animations and Interactive Plots"
 layout: post
 date: 2016-08-11 12:13
-image: '/assets/images/'
 description:
 tag:
 tools: true
@@ -36,7 +35,7 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 
 <figure>
     <a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/split_step_schrodinger.ipynb">
-       <img src="nbviewerthumbs/split_step_schroedinger.png" alt="Time-Dependent QM: 1D Barriers & Harmonic Potentials">
+       <img src="/assets/nbviewerthumbs/split_step_schroedinger.png" alt="Time-Dependent QM: 1D Barriers & Harmonic Potentials">
     </a>
 <figcaption>
     Time-Dependent QM: 1D Barriers & Harmonic Potentials
