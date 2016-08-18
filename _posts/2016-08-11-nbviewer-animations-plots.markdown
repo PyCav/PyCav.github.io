@@ -34,5 +34,14 @@ Some examples produced from the PyCav Project:
 
 A tutorial on how to use the PyCav display module can be found [here](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Animation/Inline_animation_tutorial.ipynb).
 
+<figure>
+    <a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/split_step_schrodinger.ipynb">
+       <img src="../images/nbviewerthumbs/split_step_schroedinger.png" alt="Time-Dependent QM: 1D Barriers & Harmonic Potentials">
+    </a>
+<figcaption>
+    Time-Dependent QM: 1D Barriers & Harmonic Potentials
+</figcaption>
+</figure>
+
 Animations are produced using matplotlib but plots can be produced by both matplotlib and bokeh. An advantage of bokeh is that when the notebook 
 is viewed in the browser it allows for the plot tools such as zoom to be used, while matplotlib does not. However its documentation is not as extensive.
