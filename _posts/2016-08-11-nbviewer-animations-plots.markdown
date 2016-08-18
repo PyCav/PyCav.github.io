@@ -34,7 +34,5 @@ Some examples produced from the PyCav Project:
 
 A tutorial on how to use the PyCav display module can be found [here](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Animation/Inline_animation_tutorial.ipynb).
 
-{% include figure.html filename="IMAGE-FILENAME" caption="Caption to image" %}
-
 Animations are produced using matplotlib but plots can be produced by both matplotlib and bokeh. An advantage of bokeh is that when the notebook 
 is viewed in the browser it allows for the plot tools such as zoom to be used, while matplotlib does not. However its documentation is not as extensive.
