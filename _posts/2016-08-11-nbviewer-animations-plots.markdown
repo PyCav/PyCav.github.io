@@ -18,9 +18,9 @@ presenting could include unwanted setup and delay. However the notebooks, along 
 
 Some examples produced from the PyCav Project:
 
-[Steady State Scattering: Foldy Lax](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/FoldyLax.ipynb)
+[Steady State Scattering: Foldy Lax](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/FoldyLax.ipynb)
 
-[Wave Equation: 1D and 2D examples](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/numerical_wave_equation.ipynb)
+[Wave Equation: 1D and 2D examples](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/numerical_wave_equation.ipynb)
 
 [Time-Dependent QM: 1D examples, barrier and harmonic potentials](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/split_step_schrodinger.ipynb)
 
@@ -33,6 +33,11 @@ Some examples produced from the PyCav Project:
 [Electrodynamics: Charged particle motion near fixed charges](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/charge_torus.ipynb)
 
 A tutorial on how to use the PyCav display module can be found [here](https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Animation/Inline_animation_tutorial.ipynb).
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 Animations are produced using matplotlib but plots can be produced by both matplotlib and bokeh. An advantage of bokeh is that when the notebook 
 is viewed in the browser it allows for the plot tools such as zoom to be used, while matplotlib does not. However its documentation is not as extensive.
