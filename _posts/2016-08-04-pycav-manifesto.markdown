@@ -10,7 +10,7 @@ jemoji:
 author: austenlamacraft
 ---
 
-_In order to give a bit of background on the origins of the PyCav project, I'm attaching the application that John and I made back in January to the [Teaching and Learing Innovation Fund](http://www.cctl.cam.ac.uk/support-and-training/funding/teaching-and-learning-innovation-fund)._
+_In order to give a bit of background on the origins of the PyCav project, I'm attaching the application that John and I made back in January to the [Teaching and Learning Innovation Fund](http://www.cctl.cam.ac.uk/support-and-training/funding/teaching-and-learning-innovation-fund)._
 
 
 >The goals of **PyCav** are:
