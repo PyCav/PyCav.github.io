@@ -35,7 +35,7 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 
 <figure>
     <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/charge_torus.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/charged_torus.png" alt="Electrodynamics: Charged Particle Motion near Fixed Charges">
+       <img src="/assets/images/nbviewerthumbs/charged_torus.png" alt="Electrodynamics: Charged Particle Motion near Fixed Charges">
     </a></center>
 <figcaption>
     Electrodynamics: Charged Particle Motion near Fixed Charges
@@ -43,17 +43,17 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 </figure>
 
 <figure>
-    <a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Electromagnetism/Cherenkov.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/cherenkov.png" alt="Electromagnetism: Cherenkov Radiation" style="margin:0px auto;display:block">
-    </a>
+    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Electromagnetism/Cherenkov.ipynb">
+       <img src="/assets/images/nbviewerthumbs/cherenkov.png" alt="Electromagnetism: Cherenkov Radiation">
+    </a></center>
 <figcaption>
     Electromagnetism: Cherenkov Radiation
 </figcaption>
 </figure>
 <figure>
-    <a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/FoldyLax.ipynb">
-       <center><img src="/assets/images/nbviewerthumbs/nbviewerthumbs/fold_lax.png" alt="Steady State Scattering: Foldy Lax"></center>
-    </a>
+    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/FoldyLax.ipynb">
+       <img src="/assets/images/nbviewerthumbs/fold_lax.png" alt="Steady State Scattering: Foldy Lax">
+    </a></center>
 <figcaption>
     Steady State Scattering: Foldy Lax
 </figcaption>
@@ -61,7 +61,7 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 
 <figure>
     <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/FluidDynamics/LatticeBoltzmann.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/latticeboltzmann.png" alt="Fluid Dynamics: Flow onto a barrier via Lattice Boltzmann Method">
+       <img src="/assets/images/nbviewerthumbs/latticeboltzmann.png" alt="Fluid Dynamics: Flow onto a barrier via Lattice Boltzmann Method">
     </a></center>
 <figcaption>
     Fluid Dynamics: Flow onto a barrier via Lattice Boltzmann Method
@@ -69,7 +69,7 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 </figure>
 <figure>
     <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/numerical_wave_equation.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/numerical_wave_equation.png" alt="Wave Equation: 1D & 2D">
+       <img src="/assets/images/nbviewerthumbs/numerical_wave_equation.png" alt="Wave Equation: 1D & 2D">
     </a></center>
 <figcaption>
     Wave Equation: 1D & 2D
@@ -77,7 +77,7 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 </figure>
 <figure>
     <center><a href="https://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/shooting_method.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/shooting_method.png" alt="Time-Independent QM: Shooting Method for Finite Square Well">
+       <img src="/assets/images/nbviewerthumbs/shooting_method.png" alt="Time-Independent QM: Shooting Method for Finite Square Well">
     </a></center>
 <figcaption>
     Time-Independent QM: Shooting Method for Finite Square Well
@@ -85,7 +85,7 @@ A tutorial on how to use the PyCav display module can be found [here](https://nb
 </figure>
 <figure>
     <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/split_step_schrodinger.ipynb">
-       <img src="/assets/images/nbviewerthumbs/nbviewerthumbs/split_step_schroedinger.png" alt="Time-Dependent QM: 1D Barriers & Harmonic Potentials">
+       <img src="/assets/images/nbviewerthumbs/split_step_schroedinger.png" alt="Time-Dependent QM: 1D Barriers & Harmonic Potentials">
     </a></center>
 <figcaption>
     Time-Dependent QM: 1D Barriers & Harmonic Potentials
