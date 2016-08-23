@@ -18,11 +18,11 @@ presenting could include unwanted setup and delay. However the notebooks, along 
 Some examples produced from the PyCav Project, click the images to view the demonstrations:
 
 <figure>
-    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/charge_torus.ipynb">
-       <img src="/assets/images/nbviewerthumbs/charged_torus.png" alt="Electrodynamics: Charged Particle Motion near Fixed Charges">
+    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/gyroscope.ipynb">
+       <img src="/assets/images/nbviewerthumbs/deadoralive.png" alt="Classical Dynamics: Symmetric Spinning Top">
     </a></center>
 <figcaption>
-    Electrodynamics: Charged Particle Motion near Fixed Charges
+    Classical Dynamics: Symmetric Spinning Top
 </figcaption>
 </figure>
 
