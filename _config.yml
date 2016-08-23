@@ -54,7 +54,14 @@ authors:
         external-image: false
         picture:
         twitter:
-
+    niallmcconville:
+        name: Niall McConville
+        bio: Physics of More Stuff (But mostly words)
+        email: niall.mcconville@cantab.net
+        web: https://www.linkedin.com/in/niallmcconville
+        external-image: true
+        picture: https://scontent-lhr3-1.xx.fbcdn.net/v/t1.0-9/10425433_10152939232022607_4632983574088523953_n.jpg?oh=c066278d03d1af41f88401aabe962952&oe=5857CDA5
+        
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
