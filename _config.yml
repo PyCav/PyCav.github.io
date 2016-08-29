@@ -51,9 +51,8 @@ authors:
     aidancrilly:
         name: Aidan Crilly
         bio: Physics of Other Stuff
-        external-image: false
-        picture:
-        twitter:
+        external-image: true
+        picture: http://hubblesite.org/explore_astronomy/black_holes/graphics/cygnusA_radio.jpg
     niallmcconville:
         name: Niall McConville
         bio: Physics of More Stuff (But mostly words)
