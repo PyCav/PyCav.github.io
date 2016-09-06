@@ -27,7 +27,7 @@ This represents a direct transition from C++ - perhaps closer to the truth, a tr
 
 One could argue that the Scientific Computing aspects of the (Physical) Natural Sciences Tripos (NST) are quite fragmented.
 For example, in Part IA (the first year), one completes a standalone course in MATLAB.
-A self-taught, standalone C++ course in Computational Physics is encountered if one, if one then proceeded to take the Physics B option in Part IB (the second year).
+A self-taught, standalone C++ course in Computational Physics is encountered, if one then proceeded to take the Physics B option in Part IB (the second year).
 This in some regard, is a result of the flexibility provided by the level of choice available to students in the NST - which itself is highly desirable.
 What is undesirable is that this compartmentalisation of teaching creates a horizontal learning environment; that is to say, one finds many occasions where one has to start close to square one, rather than building directly and consistently upon previous years experience. Of course, this is not an absolute rule. It is certainly true that the skill development throughout these courses extends the type of problems that an undergraduate student can tackle. 
 The PyCav team felt that a higher level of integration was desirable. 
