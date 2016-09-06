@@ -10,9 +10,9 @@ jemoji:
 author: aidancrilly
 ---
 
-Jupyter Notebooks can used to run code within the [server](https://nile.pycav.org/) or locally however they can also be used to present the output of the code.
+Jupyter Notebooks can used to run code within the [server](https://nile.pycav.org/) or locally; however they can also be used to present the output of the code.
 This could include figures, animations, parameter estimations etc. along with the markdown comments and LaTeX equations. Running the code to produce these when
-presenting could include unwanted setup and delay. However the notebooks, along with the desired material, can be view in an internet browser using 
+presenting could include unwanted setup and delay. However the notebooks, along with the desired material, can be viewed in an internet browser using 
 [NBViewer](https://nbviewer.jupyter.org) without the need to run any code.
 
 Some examples produced from the PyCav Project, click the images to view the demonstrations:
