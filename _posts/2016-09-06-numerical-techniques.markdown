@@ -38,6 +38,7 @@ Below we shall point to some Demo notebooks using particular numerical algorithm
 |Shooting method|[Finite Square Well](http://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/shooting_method.ipynb)|[Numerov Method](http://www.fisica.uniud.it/~giannozz/Corsi/MQ/LectureNotes/mq-cap1.pdf)|
 |Monte-Carlo|[Bateman Equation](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Statistics/Bateman_Eqn.ipynb)|[Monte Carlo wiki](https://en.wikipedia.org/wiki/Monte_Carlo_method) (see also Ising model notebooks for Metropolis algorithm)|
 |Lattice Boltzmann|[Flow onto a barrier](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/FluidDynamics/LatticeBoltzmann.ipynb)|[LBM](http://physics.weber.edu/schroeder/javacourse/LatticeBoltzmann.pdf)|
+
 and others
 
 ### Custom Algorithms:
