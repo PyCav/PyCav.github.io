@@ -27,20 +27,20 @@ Below we shall point to some Demo notebooks using particular numerical algorithm
 
 ### From SciPy and NumPy:
 
-scipy.odeint	[Gyroscope](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/gyroscope.ipynb)	[odeint](http://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)
-scipy.quad	[Perturbation Theory](http://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/perturbation_theory_solutions.ipynb)	[quad](http://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html)
-numpy.eig	[Linear Chain](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Eigensystems/LinearChain.ipynb)	[eig](http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.eig.html)
+|scipy.odeint|[Gyroscope](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Dynamics/gyroscope.ipynb)|[odeint](http://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html)|
+|scipy.quad|[Perturbation Theory](http://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/perturbation_theory_solutions.ipynb)|[quad](http://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.quad.html)|
+|numpy.eig|[Linear Chain](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Eigensystems/LinearChain.ipynb)|[eig](http://docs.scipy.org/doc/numpy/reference/generated/numpy.linalg.eig.html)|
 
 ### Established Numerical Techniques written in Python:
 
-Lax & Lax-Wendroff	[Wave Equation](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/numerical_wave_equation.ipynb)	Numerical Recipes: The Art of Scientific Computing Book, [Solving PDEs numerically](http://www.aei.mpg.de/~rezzolla/lnotes/Evolution_Pdes/evolution_pdes_lnotes.pdf) & [Algorithm summaries in 1D and 2D](http://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/c5pd_s1ih.html)
-Split Step Fourier method	[Reflectionless Potential](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/1D_reflectionless_potential.ipynb)	[Quantum Python](https://jakevdp.github.io/blog/2012/09/05/quantum-python/) & [Split-step wiki](https://en.wikipedia.org/wiki/Split-step_method)
-Shooting method	[Finite Square Well](http://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/shooting_method.ipynb)	[Numerov Method](http://www.fisica.uniud.it/~giannozz/Corsi/MQ/LectureNotes/mq-cap1.pdf)
-Monte-Carlo	[Bateman Equation](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Statistics/Bateman_Eqn.ipynb)	[Monte Carlo wiki](https://en.wikipedia.org/wiki/Monte_Carlo_method) (see also Ising model notebooks for Metropolis algorithm)
-Lattice Boltzmann	[Flow onto a barrier](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/FluidDynamics/LatticeBoltzmann.ipynb)	[LBM](http://physics.weber.edu/schroeder/javacourse/LatticeBoltzmann.pdf)
+|Lax & Lax-Wendroff|[Wave Equation](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/numerical_wave_equation.ipynb)|Numerical Recipes: The Art of Scientific Computing Book, [Solving PDEs numerically](http://www.aei.mpg.de/~rezzolla/lnotes/Evolution_Pdes/evolution_pdes_lnotes.pdf) & [Algorithm summaries in 1D and 2D](http://homepage.univie.ac.at/franz.vesely/cp_tut/nol2h/new/c5pd_s1ih.html)|
+|Split Step Fourier method|[Reflectionless Potential](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/QuantumMechanics/1D_reflectionless_potential.ipynb)|[Quantum Python](https://jakevdp.github.io/blog/2012/09/05/quantum-python/) & [Split-step wiki](https://en.wikipedia.org/wiki/Split-step_method)|
+|Shooting method|[Finite Square Well](http://nbviewer.jupyter.org/github/PyCav/Investigations/blob/master/LongProblems/shooting_method.ipynb)|[Numerov Method](http://www.fisica.uniud.it/~giannozz/Corsi/MQ/LectureNotes/mq-cap1.pdf)|
+|Monte-Carlo|[Bateman Equation](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Statistics/Bateman_Eqn.ipynb)|[Monte Carlo wiki](https://en.wikipedia.org/wiki/Monte_Carlo_method) (see also Ising model notebooks for Metropolis algorithm)|
+|Lattice Boltzmann|[Flow onto a barrier](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/FluidDynamics/LatticeBoltzmann.ipynb)|[LBM](http://physics.weber.edu/schroeder/javacourse/LatticeBoltzmann.pdf)|
 and others
 
 ### Custom Algorithms:
 
-Cherenkov Radiation	[Notebook](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Electromagnetism/Cherenkov.ipynb)
-Light Ray Caustic	[Caustic](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Optics/Caustics.ipynb)	[Ray Transfer Matrix Analysis](https://en.wikipedia.org/wiki/Ray_transfer_matrix_analysis) & [PyCav Optics Docs](http://pycav.readthedocs.io/en/latest/api/optics/index.html)
+|Cherenkov Radiation|[Notebook](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Electromagnetism/Cherenkov.ipynb)|	|
+|Light Ray Caustic|[Caustic](http://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/Optics/Caustics.ipynb)|[Ray Transfer Matrix Analysis](https://en.wikipedia.org/wiki/Ray_transfer_matrix_analysis) & [PyCav Optics Docs](http://pycav.readthedocs.io/en/latest/api/optics/index.html)|
