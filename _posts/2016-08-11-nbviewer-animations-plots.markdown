@@ -52,7 +52,7 @@ Some examples produced from the PyCav Project, click the images to view the demo
 </figcaption>
 </figure>
 <figure>
-    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesOscillations/numerical_wave_equation.ipynb">
+    <center><a href="https://nbviewer.jupyter.org/github/PyCav/Demos/blob/master/WavesAndOscillations/numerical_wave_equation.ipynb">
        <img src="/assets/images/nbviewerthumbs/numerical_wave_equation.png" alt="Wave Equation: 1D & 2D">
     </a></center>
 <figcaption>
